@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.gitmirror.com/2hacc/TVBox/main/jar/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
+  "spider":"http://192.168.2.45:8000/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
